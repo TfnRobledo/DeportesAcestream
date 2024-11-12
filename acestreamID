@@ -4,7 +4,7 @@
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/fLGkh8b5/vamos.png", M+ Vamos
-http://127.0.0.1:6878/ace/manifest.m3u8?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", DAZN F1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5789ca155323664edd293b848606688edf803f4d
@@ -70,7 +70,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=4c46585214b23b1d802ef2168060c7649a389
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png", Eurosport 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+http://127.0.0.1:6878/ace/manifest.m3u8?id=f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png", Eurosport 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c373da9e901d414b7384e671112e64d5a2310c29
