@@ -159,5 +159,3 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=dae7d1251f069516cc0a9c8f15f6639d2a17d
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a1557.png", Eleven Sports 4 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0f32c0131a2d9444996410801f4e18b04384db98
 
-#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a1558.png", Eleven Sports 5 POR
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
