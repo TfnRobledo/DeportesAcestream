@@ -70,7 +70,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=4c46585214b23b1d802ef2168060c7649a389
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png", Eurosport 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
+http://127.0.0.1:6878/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png", Eurosport 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c373da9e901d414b7384e671112e64d5a2310c29
