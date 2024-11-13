@@ -55,7 +55,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", M+ Deportes
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", M+ Deportes 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
