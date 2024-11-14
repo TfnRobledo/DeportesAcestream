@@ -3,6 +3,9 @@
 #EXTINF:-1, tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png", Movistar Plus+
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
+#EXTINF:-1, tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png", Movistar Plus+
+http://127.0.0.1:6878/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
+
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/fLGkh8b5/vamos.png", M+ Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 
