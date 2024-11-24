@@ -1,9 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png", Movistar Plus+
-http://127.0.0.1:6878/ace/manifest.m3u8?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
-
-#EXTINF:-1, tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png", Movistar Plus+
 http://127.0.0.1:6878/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/fLGkh8b5/vamos.png", M+ Vamos
@@ -43,10 +40,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb
 http://127.0.0.1:6878/ace/manifest.m3u8?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", M+ Liga de Campeones
-http://127.0.0.1:6878/ace/manifest.m3u8?id=0a26e20f39845e928411e09a124374fccb6e1478
+http://127.0.0.1:6878/ace/manifest.m3u8?id=775abd8697715c48a357906d40734ccd2a10513c
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", M+ Liga de Campeones
-http://127.0.0.1:6878/ace/manifest.m3u8?id=775abd8697715c48a357906d40734ccd2a10513c
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8edb264520569b2280c5e86b2dc734e120032903
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c070cdb701fc46bb79d17568d99fc64620443d63
