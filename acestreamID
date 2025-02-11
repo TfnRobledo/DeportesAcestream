@@ -3,24 +3,6 @@
 #EXTINF:-1, tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png", Movistar Plus+
 http://127.0.0.1:6878/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
 
-#EXTINF:-1 xui-id="14" tvg-id="Movistar Plus+ HD" tvg-name="Plus por M+ FHD 6MB" tvg-logo="http://picons.ykmods.com/picons/M_plus.png" group-title="ESPAÑA",Plus por M+ FHD 6MB
-http://higterlow.in:8880/play/tMIiLTV4diqPOYVu1S4TKxxT1rbq9nLQ-qwtBV6MwSE
-
-#EXTINF:-1 xui-id="15" tvg-id="Movistar Plus+ HD" tvg-name="Plus por M+ FHD" tvg-logo="http://picons.ykmods.com/picons/M_plus.png" group-title="ESPAÑA",Plus por M+ FHD
-http://higterlow.in:8880/play/tMIiLTV4diqPOYVu1S4TK8xKVW82sVMsrhFiEJCkWBY
-
-#EXTINF:-1 xui-id="16" tvg-id="Movistar Plus+ HD" tvg-name="Plus por M+ HD" tvg-logo="http://picons.ykmods.com/picons/M_plus.png" group-title="ESPAÑA",Plus por M+ HD
-http://higterlow.in:8880/play/tMIiLTV4diqPOYVu1S4TK0KQ-q8fWA_z9taiPJIe5BI
-
-#EXTINF:-1 xui-id="19" tvg-id="M+ Cine HD" tvg-name="Estrenos por M+  FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/sammos/MV1" group-title="ESPAÑA",Estrenos por M+  FHD
-http://higterlow.in:8880/play/tMIiLTV4diqPOYVu1S4TK0oVtBLezApYrBDrBAejEzc
-
-#EXTINF:-1 xui-id="82" tvg-id="National Geographic HD" tvg-name="National Geographic FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="ESPAÑA",National Geographic FHD
-http://higterlow.in:8880/play/tMIiLTV4diqPOYVu1S4TK1ww2i9__wz1Glba6CXdxJc
-
-#EXTINF:-1 xui-id="83" tvg-id="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="ESPAÑA",National Geographic HD
-http://higterlow.in:8880/play/tMIiLTV4diqPOYVu1S4TK4JuHRA1AvU7wGsRE4S9NyE
-
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/fLGkh8b5/vamos.png", M+ Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 
@@ -50,12 +32,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b41429499
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png", La Liga TV BAR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
-
-#EXTINF:-1 xui-id="153" tvg-id="M+ LaLiga TV HD" tvg-name="Laliga por M+ FHD" tvg-logo="http://picons.ykmods.com/picons/LaligaTv.png" group-title="DEPORTES MOVISTAR",Laliga por M+ FHD
-http://higterlow.in:8880/play/tMIiLTV4diqPOYVu1S4TK1Z1I_lrWAW8k1Yp0v1DtjA
-
-#EXTINF:-1 xui-id="154" tvg-id="M+ LaLiga TV HD" tvg-name="Laliga por M+ FHD 2" tvg-logo="http://picons.ykmods.com/picons/LaligaTv.png" group-title="DEPORTES MOVISTAR",Laliga por M+ FHD 2
-http://higterlow.in:8880/play/tMIiLTV4diqPOYVu1S4TKwFLkFmiOIur8jXcKh0Cc0k
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", M+ LaLiga TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
