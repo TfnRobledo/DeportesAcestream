@@ -49,6 +49,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=38d0b187d3cf396695bbb2166a09f57736276
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7cdf501671e3a34e56f1686471ccd2f587cade7c
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", M+ Liga de Campeones 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8e4ab34c7fe491831734bc677b7bf91555653eb3
+
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=061bda6fe2e50c509afd83f63a601e139d75d3a0
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", M+ Liga de Campeones 3
