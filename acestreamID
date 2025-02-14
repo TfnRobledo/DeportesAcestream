@@ -22,16 +22,25 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=268289e7a3c5209960b53b4d43c8c65fab294
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png", DAZN LaLiga
+http://127.0.0.1:6878/ace/manifest.m3u8?id=28c8115681bf6e4565cb5e987530c2f606cc561f
+
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png", DAZN LaLiga
+http://127.0.0.1:6878/ace/manifest.m3u8?id=dad36d37fa74b94e345bb014d82d820e54fb69d8
+
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png", DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6de4794cd02f88f14354b5996823413a59a1de0f
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png", DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 
 #EXTINF:-1, tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png", La Liga TV BAR
-http://127.0.0.1:6878/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+http://127.0.0.1:6878/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
 
 #EXTINF:-1, tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png", La Liga TV BAR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", M+ LaLiga TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=cf144f2d6c5a267a3dd122ae70dfd34bfbed2ce0
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", M+ LaLiga TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d
