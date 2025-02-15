@@ -78,15 +78,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=63b976bbf9bbd0c37117880b8b33702b95357
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", group-title="TRONOSS", M+ LaLiga TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f5fcacb60627d6319b89942391e441d179dbb9d9
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="ELCANO", M+ Liga de Campeones
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4e3302991c482dff2e10de69795fa5aa87a61ae7
-
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="ELCANO", M+ Liga de Campeones
-http://127.0.0.1:6878/ace/manifest.m3u8?id=38d0b187d3cf396695bbb2166a09f57736276e2e
-
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="ELCANO", M+ Liga de Campeones
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7cdf501671e3a34e56f1686471ccd2f587cade7c
-
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="TRONOSS", M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=38d0b187d3cf396695bbb2166a09f57736276e2e
 
@@ -96,23 +87,11 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=7cdf501671e3a34e56f1686471ccd2f587cad
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="TRONOSS", M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4e3302991c482dff2e10de69795fa5aa87a61ae7
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="ELCANO", M+ Liga de Campeones 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8e4ab34c7fe491831734bc677b7bf91555653eb3
-
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="ELCANO", M+ Liga de Campeones 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=061bda6fe2e50c509afd83f63a601e139d75d3a0
-
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="TRONOSS", M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=061bda6fe2e50c509afd83f63a601e139d75d3a0
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="TRONOSS", M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8e4ab34c7fe491831734bc677b7bf91555653eb3
-
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="ELCANO", M+ Liga de Campeones 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e42984ac6529407462f92201af95c01db8988368
-
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="ELCANO", M+ Liga de Campeones 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e42984ac6529407462f92201af95c01db8988368
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", group-title="ELCANO", M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
@@ -128,9 +107,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", group-title="TRONOSS", M+ Deportes 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=43931a2672086891ce4f6d6b4128e005e8038959
-
-#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", group-title="ELCANO", M+ Deportes 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=fb27c753c690bf21edcf527f42cd14c5c9e6b53e
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", group-title="TRONOSS", M+ Deportes 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fb27c753c690bf21edcf527f42cd14c5c9e6b53e
