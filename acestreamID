@@ -78,6 +78,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=f5fcacb60627d6319b89942391e441d179dbb
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="ELCANO", M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="ELCANO", M+ Liga de Campeones
+http://127.0.0.1:6878/ace/manifest.m3u8?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
+
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="TRONOSS", M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=38d0b187d3cf396695bbb2166a09f57736276e2e
 
