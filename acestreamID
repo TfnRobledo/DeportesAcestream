@@ -24,7 +24,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=8c1e181e99425c729cdf12c21fccaf07ea106
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/fLGkh8b5/vamos.png", group-title="MOVISTAR", M+ Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7ea69506cdde10da9d85a2414310a7e5afcdba19
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", group-title="DAZNF1", DAZN F1
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", group-title="DAZN F1", DAZN F1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", group-title="DAZN F1", DAZN F1
@@ -102,7 +102,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=acb510858f34c3c6fd5f79395b031abd6885c
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", group-title="MOVISTAR DEPORTES", M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=37d450c61d992cc4f4634cbd51ccda710c126de2
 
-#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", group-title="TRONOSS", M+ Deportes
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", group-title="MOVISTAR DEPORTES", M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ce65932b1113ec32c270050786d7702897150d74
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", group-title="MOVISTAR DEPORTES", M+ Deportes 2
