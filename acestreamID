@@ -81,10 +81,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=7e90956539f4e1318a63f3960e4f75c7c7c5a
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a663.png", group-title="INGLATERRA", Sky Sports Main Event UK
 http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
-#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a663.png", group-title="ALEMANIA", Sky Sports 1 DE
+#EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo.png", group-title="ALEMANIA", Sky Sports 1 DE
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7c12288663069a12aff58f3f62e8ea47ab78c65d
 
-#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a663.png", group-title="ALEMANIA", Sky Sports 2 DE
+#EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo.png", group-title="ALEMANIA", Sky Sports 2 DE
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fc9f1f580da8f641a5991d44b399982a3a069f69
 
 #EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo.png", group-title="INGLATERRA", Sky Sports Premier League
