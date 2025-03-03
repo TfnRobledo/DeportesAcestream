@@ -78,11 +78,29 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=05057e832dd1530c7d5e8b0857fee6826243a
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fe521a6e9d2ff31616125fa75bac6b0deb52b6b9
 
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=0adc3b525508b4a74ce65685870894a77401afb7
+
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=f7fa79fdad436e969a82389a062a74564e91b10e
+
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4d754e0b6b583d01668de8544c43cad6a1b253da
+
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones 4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7a5512d101742eb418dd0e3ffbd2bf6c43c73452
+
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", group-title="MOVISTAR DEPORTES", M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", group-title="MOVISTAR DEPORTES", M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", group-title="MOVISTAR DEPORTES", M+ Deportes 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", group-title="MOVISTAR DEPORTES", M+ Deportes 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=985896872c52d04030c112ca99584046d022a349
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/htb5kN6y/liga-hypermotion.png", group-title="LA LIGA HYPERMOTION", LaLiga TV Hypermotion 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
