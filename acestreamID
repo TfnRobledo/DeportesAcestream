@@ -63,20 +63,20 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b
 #EXTINF:-1, tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png", group-title="LA LIGA TV BAR", La Liga TV BAR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", group-title="MOVISTAR LA LIGA", M+ LaLiga TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", group-title="MOVISTAR LA LIGA", M+ LaLiga TV UHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", group-title="MOVISTAR LA LIGA", M+ LaLiga TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", group-title="MOVISTAR LA LIGA", M+ LaLiga TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+http://127.0.0.1:6878/ace/manifest.m3u8?id=05057e832dd1530c7d5e8b0857fee6826243a243
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fe521a6e9d2ff31616125fa75bac6b0deb52b6b9
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", group-title="MOVISTAR DEPORTES", M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
@@ -88,10 +88,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=acb510858f34c3c6fd5f79395b031abd6885c
 http://127.0.0.1:6878/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png", group-title="EUROSPORT", Eurosport 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b16eeeb12d208029eff3dcc9e73613fd8b052737
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png", group-title="EUROSPORT", Eurosport 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8e9390c1647da151a7bc0e1b37c4b4d21d83049d
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a663.png", group-title="INGLATERRA", Sky Sports Main Event UK
 http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
