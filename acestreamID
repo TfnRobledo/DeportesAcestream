@@ -19,7 +19,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=a1660d711184fa701bf1c88395e3b2d43ddca
 http://127.0.0.1:6878/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png", group-title="DAZN", DAZN LaLiga
-http://127.0.0.1:6878/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c
+
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png", group-title="DAZN", DAZN 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a7e083d922be14a0496d65aad2ff8ea9c8011bd0
