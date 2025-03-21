@@ -46,6 +46,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=5c7406bfaf65cc32d3f52b1430b53a37bc4c5
 http://127.0.0.1:6878/ace/manifest.m3u8?id=acestream://b4b48a6028aa05ca32f583d3019dc2e3e6bd9988
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", group-title="DAZN", DAZN F1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d6281d4e6310269b416180442a470d23a4a99dc9
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", group-title="DAZN", DAZN F1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=751aa1f2429dfb9484b67a3ede00d859c6212994
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", group-title="DAZN", DAZN F1
