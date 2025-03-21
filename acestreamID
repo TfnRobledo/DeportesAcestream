@@ -61,7 +61,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=5d8613b5fde87f366bb5e41ac8011007a4c6b
 http://127.0.0.1:6878/ace/manifest.m3u8?id=bd0e5d1a95192f5a64b6f44b5d90ad63b6f9e07a
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", group-title="DAZN", F1 TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bd0e5d1a95192f5a64b6f44b5d90ad63b6f9e07ab167d7c8e196ac3567f3453ef6132a7d3ed2f848
+http://127.0.0.1:6878/ace/manifest.m3u8?id=bd0e5d1a95192f5a64b6f44b5d90ad63b6f9e07a
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", group-title="DAZN", F1 TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b167d7c8e196ac3567f3453ef6132a7d3ed2f848
 
 #EXTINF:-1, tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/5e262f2be1a0530c07327d65e867d74b524fac03.png", group-title="DAZN", Sky Sport F1 GER
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
