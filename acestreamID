@@ -15,6 +15,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=47403b07582b05c2a1eadaf6d1fb6454eda03
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/fLGkh8b5/vamos.png", group-title="MOVISTAR", M+ Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a1660d711184fa701bf1c88395e3b2d43ddca83f
 
+http://185.189.225.150:85/NationalGeographic/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png", group-title="DAZN", DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
 
