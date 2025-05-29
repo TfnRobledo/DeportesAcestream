@@ -39,10 +39,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=ddb69a119ab5faf7eeec3cef77e3d591a8242
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png", group-title="DAZN", DAZN 4
-http://127.0.0.1:6878/ace/manifest.m3u8?id=acestream://b4b48a6028aa05ca32f583d3019dc2e3e6bd9988
+http://127.0.0.1:6878/ace/manifest.m3u8?id=acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", group-title="DAZN", DAZN F1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d6281d4e6310269b416180442a470d23a4a99dc9
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", group-title="DAZN", DAZN F1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d65257bb934b73647374224fd62d836815804be2
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", group-title="DAZN", DAZN F1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
@@ -68,6 +71,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b41429499
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", group-title="MOVISTAR LA LIGA", M+ LaLiga TV UHD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", group-title="MOVISTAR LA LIGA", M+ LaLiga TV UHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
+
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", group-title="MOVISTAR LA LIGA", M+ LaLiga TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d
 
@@ -76,6 +82,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones
+http://127.0.0.1:6878/ace/manifest.m3u8?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0a26e20f39845e928411e09a124374fccb6e1478
