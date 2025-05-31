@@ -120,10 +120,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=985896872c52d04030c112ca99584046d022a
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png", group-title="EUROSPORT", Eurosport 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+http://127.0.0.1:6878/ace/manifest.m3u8?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
+
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png", group-title="EUROSPORT", Eurosport 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png", group-title="EUROSPORT", Eurosport 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8e9390c1647da151a7bc0e1b37c4b4d21d83049d
+http://127.0.0.1:6878/ace/manifest.m3u8?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a663.png", group-title="INGLATERRA", Sky Sports Main Event UK
 http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
