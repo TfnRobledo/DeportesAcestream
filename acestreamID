@@ -75,7 +75,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+http://127.0.0.1:6878/ace/manifest.m3u8?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
