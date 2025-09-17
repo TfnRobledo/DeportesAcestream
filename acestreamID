@@ -63,7 +63,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b
 http://127.0.0.1:6878/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", group-title="MOVISTAR LA LIGA", M+ LaLiga TV UHD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c9321006921967d6258df6945f1d598a5c0cbf1e
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", group-title="MOVISTAR LA LIGA", M+ LaLiga TV UHD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
@@ -87,16 +87,16 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=0a26e20f39845e928411e09a124374fccb6e1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=775abd8697715c48a357906d40734ccd2a10513c
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=0adc3b525508b4a74ce65685870894a77401afb7
+http://127.0.0.1:6878/ace/manifest.m3u8?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f7fa79fdad436e969a82389a062a74564e91b10e
+http://127.0.0.1:6878/ace/manifest.m3u8?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4d754e0b6b583d01668de8544c43cad6a1b253da
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones 4
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7a5512d101742eb418dd0e3ffbd2bf6c43c73452
+http://127.0.0.1:6878/ace/manifest.m3u8?id=53cd86466d1faed03a607be92af601f7e8da128f
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", group-title="MOVISTAR DEPORTES", M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
