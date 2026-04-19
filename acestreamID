@@ -3,35 +3,14 @@
 #EXTINF:-1 name="M+ PLUS FHD --> NEW ERA",M+ PLUS FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?infohash=603aff9cb59ce9d8acf2611b1d7d454c3ede30b5
 
-#EXTINF:-1 name="#VAMOS FHD --> NEW ERA",#VAMOS FHD --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?infohash=20db14f6e9cd048c12006e7f9e5e8326390eaff1
-
-#EXTINF:-1 name="#VAMOS FHD (SAT) --> NEW ERA",#VAMOS FHD (SAT) --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?infohash=0e95fe98b5cb2f1937ca846ba40f647e7fbcd585
-
 #EXTINF:-1 name="DAZN LA LIGA 1 FHD --> NEW ERA",DAZN LA LIGA 1 FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?infohash=b2e44f314c554294cc3b42f867bd432bd3306aab
-
-#EXTINF:-1 name="DAZN LA LIGA 2 FHD --> NEW ERA",DAZN LA LIGA 2 FHD --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?infohash=725760009950ad23ed444de76c0f5a98c536620c
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png", group-title="DAZN", DAZN 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png", group-title="DAZN", DAZN 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e6a00cb2912609dceeeee88d3f66a2de9718b421
-
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20HD.png", group-title="DAZN", DAZN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20HD.png", group-title="DAZN", DAZN 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ddb69a119ab5faf7eeec3cef77e3d591a8242816
-
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203%20HD.png", group-title="DAZN", DAZN 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
-
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png", group-title="DAZN", DAZN 4
-http://127.0.0.1:6878/ace/manifest.m3u8?id=acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 
 #EXTINF:-1 name="DAZN F1 HD",DAZN F1 HD
 http://127.0.0.1:6878/ace/getstream?infohash=6d325cda6ed591647ef5e91edd043147bce8be30
@@ -43,22 +22,10 @@ http://127.0.0.1:6878/ace/getstream?infohash=b0999d6facfbae2944b9c7bba442eeea9cd
 http://127.0.0.1:6878/ace/getstream?infohash=eb85b6eddb906e9745384586c02b5f061bf3ea77
 
 #EXTINF:-1 name="DAZN F1 FHD --> NEW ERA",DAZN F1 FHD --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?infohash=e3762efb1b0db5bb7a089973913bd9bdab12b454
-
-#EXTINF:-1 name="DAZN F1 FHD (SAT) --> NEW ERA",DAZN F1 FHD (SAT) --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?infohash=648bba63051a31d5b0e49ec4a9707ea65835e35d
-
-#EXTINF:-1 name="DAZN F1 FHD --> NEW ERA",DAZN F1 FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?infohash=e3fa883a65b7441fcae25b061c710e8c92de9c87
 
 #EXTINF:-1 name="M+ LaLiga FHD --> NEW ERA",M+ LaLiga FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?infohash=b4585c27169685d34bfdf43471f0603c8200cff6
-
-#EXTINF:-1 name="M+ LaLiga FHD (SAT) --> NEW ERA",M+ LaLiga FHD (SAT) --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?infohash=c6be98a6696d50e6fd549d5dc36a13c8d565e501
-
-#EXTINF:-1 name="M+ LaLiga FHD --> NEW ERA",M+ LaLiga FHD --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?infohash=2f40ac83a717af0b4d7fe6a15bc36fd632505278
 
 #EXTINF:-1 name="M. Liga de Campeones",M. Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?infohash=8c1c3eae077f3a786ed2f0a426197ea93fdf7373
@@ -66,35 +33,14 @@ http://127.0.0.1:6878/ace/getstream?infohash=8c1c3eae077f3a786ed2f0a426197ea93fd
 #EXTINF:-1 name="M. Liga de Campeones 2",M. Liga de Campeones 2
 http://127.0.0.1:6878/ace/getstream?infohash=cc3d749cfd30877b418f1d59a80d9291e0f091c8
 
-#EXTINF:-1 name="M+ LIGA DE CAMPEONES FHD (SAT) --> NEW ERA",M+ LIGA DE CAMPEONES FHD (SAT) --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?infohash=32cd9fcaf7702abd27e6f89f1c48fbe958855f8c
-
 #EXTINF:-1 name="M+ LIGA DE CAMPEONES 2 FHD --> NEW ERA",M+ LIGA DE CAMPEONES 2 FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?infohash=2c911e08952eeeb1f24ad4289fa1c495a086d8ec
 
 #EXTINF:-1 name="M+ LIGA DE CAMPEONES 2 FHD --> NEW ERA",M+ LIGA DE CAMPEONES 2 FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?infohash=86a071ecb6418de62c21ad3587e755e2cec330c9
 
-#EXTINF:-1 name="M+ LIGA DE CAMPEONES FHD --> NEW ERA",M+ LIGA DE CAMPEONES FHD --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?infohash=ea29aa822837196c14297bf207dca565dff6ea67
-
-#EXTINF:-1 name="M+ LIGA DE CAMPEONES 2 FHD --> NEW ERA",M+ LIGA DE CAMPEONES 2 FHD --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?infohash=540df8fcfb0da23419f22e5a1153bc5503fc1431
-
 #EXTINF:-1 name="M+ LIGA DE CAMPEONES 4K --> NEW ERA",M+ LIGA DE CAMPEONES 4K --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?infohash=87e15617cbf6a04499e89409423cc294004b8a18
-
-#EXTINF:-1 name="M+ LIGA DE CAMPEONES FHD (1 opcion) --> NEW ERA",M+ LIGA DE CAMPEONES FHD (1 opcion) --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?infohash=deab41fff6f3ccbfa61b812b9bb108f3957d6e26
-
-#EXTINF:-1 name="M+ DEPORTES FHD --> NEW ERA",M+ DEPORTES FHD --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?infohash=85d5caef472a24d4db10d8d52769f3bd83b55ad5
-
-#EXTINF:-1 name="M+ DEPORTES 2 FHD --> NEW ERA",M+ DEPORTES 2 FHD --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?infohash=61d5feaf32bb48a1fa0ee96a8fadd46c3c125f97
-
-#EXTINF:-1 name="M+ DEPORTES FHD --> NEW ERA",M+ DEPORTES FHD --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?infohash=92260240d3737800cc3df4439c32d18db4ea2119
 
 #EXTINF:-1 name="M. Deportes HD",M. Deportes HD
 http://127.0.0.1:6878/ace/getstream?infohash=8aba55f4f1f47def54447e845518109d797339e7
