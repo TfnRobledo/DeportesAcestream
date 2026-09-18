@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png", group-title="MOVISTAR", Movistar Plus+
-http://127.0.0.1:6878/ace/getstream?infohash=c1b7f54af0de256d1ac0fcac4c130e62660089f4
+http://127.0.0.1:6878/ace/getstream?infohash=67121cbb722b88ce4489717e9a87a26f60184ec9
 
 #EXTINF:-1, tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png", group-title="MOVISTAR", Movistar Plus+
 http://127.0.0.1:6878/ace/getstream?infohash=b1ab6b68debdf5a4c3e6bbf726a421aba64ae240
@@ -13,7 +13,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=866a8af8faacf8fc9eb997ab5a68b4dfee4
 http://127.0.0.1:6878/ace/getstream?infohash=0e5d8c9724fa9163f49096b70484e315251eb785
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png", group-title="DAZN", DAZN LaLiga
-http://127.0.0.1:6878/ace/manifest.m3u8?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3097d7e7ff0fe414711ee067a841168b6f5671cb
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png", group-title="DAZN", DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8a25653a2f774f4ae1062d38a30dcd714d304a3a
@@ -37,8 +37,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=d1d9ec2361a6ac8edc0b2841866383768cc28
 http://127.0.0.1:6878/ace/manifest.m3u8?id=acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", group-title="DAZN", DAZN F1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=6422e8bc34282871634c81947be093c04ad1bb29
-
+http://127.0.0.1:6878/ace/manifest.m3u8?id=
+ee4646aae30d862e0d9d453998a344a60aaa7cde
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", group-title="DAZN", DAZN F1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=515efd8115482bda8d92aa6df9a882a5e5797494
 
@@ -52,7 +52,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=d65257bb934b73647374224fd62d836815804
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", group-title="MOVISTAR LA LIGA", M+ LaLiga TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b0260a1261eb3817c353ef0a6862747dee18cdda
+http://127.0.0.1:6878/ace/manifest.m3u8?id=0b5f802f2de6488b4023d0f05195486e19d81ed7
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", group-title="MOVISTAR LA LIGA", M+ LaLiga TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=af458073c3096293a4dea9f369d4f308e7125bd6
