@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png", group-title="MOVISTAR", Movistar Plus+
-https://acestreamui.app/?f=318c12f5f40d7bd9c0ab0c130bf9b96668098279
+http://127.0.0.1:6878/ace/manifest.m3u8?id=318c12f5f40d7bd9c0ab0c130bf9b96668098279
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/fLGkh8b5/vamos.png", group-title="MOVISTAR", M+ Vamos
-https://acestreamui.app/?f=ca4ec6a46554a06a1435f7ee5631cc4c9683b8fd
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ca4ec6a46554a06a1435f7ee5631cc4c9683b8fd
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png", group-title="DAZN", DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=3097d7e7ff0fe414711ee067a841168b6f5671cb
@@ -19,7 +19,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0b5f802f2de6488b4023d0f05195486e19d81ed7
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones
-https://acestreamui.app/?f=8c1c3eae077f3a786ed2f0a426197ea93fdf7373
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8c1c3eae077f3a786ed2f0a426197ea93fdf7373
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
