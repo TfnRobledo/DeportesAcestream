@@ -19,13 +19,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0b5f802f2de6488b4023d0f05195486e19d81ed7
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones
-http://127.0.0.1:6878/ace/manifest.m3u8?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8c1c3eae077f3a786ed2f0a426197ea93fdf7373
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+http://127.0.0.1:6878/ace/manifest.m3u8?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", group-title="MOVISTAR LIGA DE CAMPEONES", M+ Liga de Campeones 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=53cd86466d1faed03a607be92af601f7e8da128f
@@ -34,7 +34,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=53cd86466d1faed03a607be92af601f7e8da1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/htb5kN6y/liga-hypermotion.png", group-title="LA LIGA HYPERMOTION", LaLiga TV Hypermotion 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
+http://127.0.0.1:6878/ace/manifest.m3u8?id=135c420f704d717b8913b2a66b2722fd6b2c127c
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png", group-title="EUROSPORT", Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
